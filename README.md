@@ -1,3 +1,10 @@
+Workflow And Project Dir In Static 3D
+<img width="1536" height="1024" alt="Django files 3D x2" src="https://github.com/user-attachments/assets/d44a73f4-4e7d-4240-a7cb-f92448d25601" />
+<img width="1536" height="1024" alt="Workflow 3D" src="https://github.com/user-attachments/assets/add68595-28d9-4fce-b625-ffb7530f5693" />
+<img width="1024" height="1536" alt="Project Directory 3D" src="https://github.com/user-attachments/assets/8676a6ef-a0c6-40b4-a4c7-f1cfe5b0440a" />
+<img width="1024" height="1536" alt="Django files 3D" src="https://github.com/user-attachments/assets/f0cce326-b1b3-48d6-a3f9-1d13d1b5907a" />
+<img width="1536" height="1024" alt="Django files 3D x3" src="https://github.com/user-attachments/assets/51597adf-a61c-4b9b-9c84-36eab9ac3140" />
+
 🐺 Django E-Commerce Store — Success Wolf Edition
 🚀 Elevator Pitch
 
